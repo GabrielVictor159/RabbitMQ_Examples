@@ -1,0 +1,17 @@
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\bin\Debug\net7.0\Send.exe
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\bin\Debug\net7.0\Send.deps.json
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\bin\Debug\net7.0\Send.dll
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\bin\Debug\net7.0\Send.pdb
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.dll
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\refint\Send.dll
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.pdb
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+C:\Nova pasta (2)\RabbitMQ_Soluction\Send\obj\Debug\net7.0\ref\Send.dll
